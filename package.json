@@ -4,7 +4,7 @@
   "description": "Semantically correct will display the lastVersion or the nextVersion",
   "main": "index.js",
   "bin": {
-    "playwhat": "./bin/semantically-correct"
+    "semantically-correct": "./bin/semantically-correct"
   },
   "author": "",
   "license": "ISC",
