@@ -1,0 +1,11 @@
+{
+  "name": "semantically-correct",
+  "version": "1.0.0",
+  "description": "Semantically correct will display the lastVersion or the nextVersion",
+  "main": "index.js",
+  "bin": {
+    "playwhat": "./bin/semantically-correct"
+  },
+  "author": "",
+  "license": "ISC"
+}
