@@ -16,8 +16,10 @@
     "url": "git+https://github.com/logikaljay/semantically-correct.git"
   },
   "keywords": [
-    "MPD",
-    "currentsong"
+    "semantic",
+    "semantic-release",
+    "version",
+    "semantic-version"
   ],
   "bugs": {
     "url": "https://github.com/logikaljay/semantically-correct/issues"
